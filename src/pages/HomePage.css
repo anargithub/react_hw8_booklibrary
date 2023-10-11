@@ -1,0 +1,12 @@
+.bookFinder{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.bookFinder_img img{
+    width: 900px;
+}
+h1{
+    font-size: 76px;
+    color: white;
+}

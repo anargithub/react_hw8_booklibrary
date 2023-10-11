@@ -1,0 +1,25 @@
+.wishlist_head img {
+    width: 100px;
+    height: 100px;
+}
+.wishlist_head p{
+    color: white;
+    font-size: 28px;
+    font-weight: 600;
+}
+.wishlist_content{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.wishlistDiv{
+    width: 400px;
+    height: 500px;
+    overflow-x: hidden;
+    margin: 10px; 
+    border: 1px solid #ccc; 
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    background-color: rgb(232, 229, 229);
+}

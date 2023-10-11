@@ -1,0 +1,39 @@
+.bookslist {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+  
+.books {
+    width: 400px;
+    height: 500px;
+    overflow-x: hidden;
+    margin: 10px; 
+    border: 1px solid #ccc; 
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    background-color: rgb(232, 229, 229);
+    
+}
+  
+.books h3 {
+    font-size: 16px;
+    margin: 5px 0;
+}
+  
+.books p {
+    margin: 5px 0;
+}
+.wishlistButton{
+    background-color: rgb(195, 194, 194);
+    /* text-align: left; */
+    width: 80px;
+    height: 40px;
+    font-size: 16px;
+    display: flex;
+    /* flex-direction: row; */
+}
+  
+  

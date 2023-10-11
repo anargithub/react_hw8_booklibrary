@@ -1,0 +1,22 @@
+header{
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    background-color: rgb(13, 13, 106);
+}
+.links{
+    width: 350px;
+    display: flex;
+    justify-content: space-between;
+}
+.link{
+    width: 150px;
+    color: white;
+    font-size: 32px;
+    text-decoration: none;
+    background-color: rgb(29, 29, 145);;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
